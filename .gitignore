@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+uploads/profiles/*
+uploads/documents/*
+!uploads/profiles/.gitkeep
+!uploads/documents/.gitkeep
